@@ -1,23 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi 👋! My name is cle-berr and I'm a Student, from 42 school</h1>
 
-# 💫 About Me:
-42 student passionate about AI and exploring new tech ideas.<br>Comfortable with C, some experience in C++, and currently learning PHP, TypeScript, and HTML.<br>I enjoy logical challenges and projects that push me to dig deeper and think harder.<br>Curious and independent — I code to understand, not just to make it work.
+###
 
+<h3 align="center">💫 About Me:</h3>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_lnightmarel_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Cyprien-Le-Berre) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cyplb76@gmail.com) 
+###
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cle-berr&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=cle-berr&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cle-berr&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h6 align="center">42 student passionate about AI and exploring new tech ideas.<br>Comfortable with C, some experience in C++, and currently learning PHP, TypeScript, and HTML.<br>I enjoy logical challenges and projects that push me to dig deeper and think harder.<br>Curious and independent — I code to understand, not just to make it work.</h6>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cle-berr&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=cle-berr&icon=5&color=4)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cle-berr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cle-berr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<img align="right" height="150" src="https://media1.tenor.com/m/8VxvqiNwvhwAAAAC/anime-rimuru.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aiscript" height="30" alt="aiscript logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Cyprien%20Le%20Berre&color=0077B5&logoColor=white&labelColor=black&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=_lnightmarel_&color=7289DA&logoColor=white&labelColor=black&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cle-berr/cle-berr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cle-berr/cle-berr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cle-berr/cle-berr/output/pacman-contribution-graph.svg">
+</picture>
+
+###
