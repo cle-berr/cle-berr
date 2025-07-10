@@ -6,7 +6,7 @@
 
 ###
 
-<h6 align="center">42 student passionate about AI and exploring new tech ideas.<br>Comfortable with C, some experience in C++, and currently learning PHP, TypeScript, and HTML.<br>I enjoy logical challenges and projects that push me to dig deeper and think harder.<br>Curious and independent — I code to understand, not just to make it work.</h6>
+<h6 align="center">42 student passionate about AI and exploring new tech ideas.<br>Comfortable with C, some experience in C++, and currently learning python.<br>I enjoy logical challenges and projects that push me to dig deeper and think harder.<br>Curious and independent — I code to understand, not just to make it work.</h6>
 
 ###
 
