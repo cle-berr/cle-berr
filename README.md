@@ -11,10 +11,10 @@
 ###
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=cle-berr&theme=dark&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cle-berr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cle-berr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=cle-berr&theme=react&hide_border=false" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cle-berr&radius=10&theme=react&area=true&order=5&color=77b6ed&point=ffffff&hide_border=false&hide_title=false" height="200" alt="activity-graph graph"  />
 </div>
-
 ###
 
 <img align="right" height="150" src="https://media1.tenor.com/m/8VxvqiNwvhwAAAAC/anime-rimuru.gif"  />
