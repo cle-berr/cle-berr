@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! You can call me cle-berr and I'm a Student, from 42 school</h2>
+<h2 align="center">Hi 👋! I'm cle-berr and I'm a Student, from 42 school</h2>
 
 ###
 
