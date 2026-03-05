@@ -8,14 +8,6 @@
 
 <h6 align="center">42 student passionate about AI and exploring new tech ideas.<br>Comfortable with C, some experience in C++, and currently learning python.<br>I enjoy logical challenges and projects that push me to dig deeper and think harder.<br>Curious and independent — I code to understand, not just to make it work.</h6>
 
-###
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=cle-berr&theme=react&hide_border=false" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <img align="right" height="150" src="https://media1.tenor.com/m/8VxvqiNwvhwAAAAC/anime-rimuru.gif"  />
 
 ###
